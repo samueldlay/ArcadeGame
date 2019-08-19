@@ -11,6 +11,6 @@
   - Your position is reset to the original coordinates
   - The enemy increases by 1
 - __You may have some difficulty achieving a score past 7__
- - There is a cheat code for attaining a much higher score, however. Try to figure it out!
+ - There is a cheat code for attaining a much higher score, however. Try to figure it out!!!
 
  ## There is a link the the actual game [here](https://samueldlay.github.io/udacity-projects/Arcade%20Game/index.html)
